@@ -7,6 +7,7 @@
     "gulp-replace": "^0.5.4",
     "gulp-requirejs": "^1.0.0-rc1",
     "gulp-requirejs-optimize": "^1.2.0",
-    "gulp-sequence": "^0.4.6"
+    "gulp-sequence": "^0.4.6",
+    "through2": "^2.0.3"
   }
 }
